@@ -1,0 +1,25 @@
+{	
+	"extensionName": "00duino 센서 part",
+	"description": "00duino(또는 Arduino)를 위한 mBlock 확장",
+	"version": "0.0.1",
+	"author": "BetaMan(skymin0417@gmail.com)",
+	"sort":0,
+	"homepage":"https://github.com/00-duino",
+	"javascriptURL":"js/arduino.js",
+  	"firmware":"1.0",
+  	"extensionPort":0,
+	"blockSpecs": [
+		[
+			"w",
+			"hello world!!",
+			"hello world",
+			{
+				"inc":"",
+				"def":"",
+				"setup":"",
+				"work":"",
+				"loop":""
+			}
+		]
+	]
+}
