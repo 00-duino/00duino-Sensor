@@ -3,6 +3,7 @@
 	"description": "00duino(또는 Arduino)를 위한 mBlock 확장",
 	"version": "0.0.1",
 	"author": "BetaMan(skymin0417@gmail.com)",
+	"license": "GPL2.0",
 	"sort":0,
 	"homepage":"https://github.com/00-duino",
 	"javascriptURL":"js/arduino.js",
